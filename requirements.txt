@@ -1,4 +1,4 @@
 pymatgen
 ipywidgets
 jupyter_contrib_nbextensions
-IPython
+appmode
