@@ -1,3 +1,5 @@
 pymatgen
+numpy
+matplotlib
 ipywidgets
-#vtk
+jupyter_contrib_nbextensions
